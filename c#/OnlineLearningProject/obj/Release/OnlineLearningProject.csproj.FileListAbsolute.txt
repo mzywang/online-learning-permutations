@@ -1,0 +1,14 @@
+c:\users\daniel\source\repos\OnlineLearningProject\OnlineLearningProject\bin\Release\OnlineLearningProject.exe.config
+c:\users\daniel\source\repos\OnlineLearningProject\OnlineLearningProject\bin\Release\OnlineLearningProject.exe
+c:\users\daniel\source\repos\OnlineLearningProject\OnlineLearningProject\bin\Release\OnlineLearningProject.pdb
+c:\users\daniel\source\repos\OnlineLearningProject\OnlineLearningProject\obj\Release\MainWindow.g.cs
+c:\users\daniel\source\repos\OnlineLearningProject\OnlineLearningProject\obj\Release\App.g.cs
+c:\users\daniel\source\repos\OnlineLearningProject\OnlineLearningProject\obj\Release\OnlineLearningProject_MarkupCompile.cache
+c:\users\daniel\source\repos\OnlineLearningProject\OnlineLearningProject\obj\Release\OnlineLearningProject_MarkupCompile.lref
+c:\users\daniel\source\repos\OnlineLearningProject\OnlineLearningProject\obj\Release\MainWindow.baml
+c:\users\daniel\source\repos\OnlineLearningProject\OnlineLearningProject\obj\Release\OnlineLearningProject.g.resources
+c:\users\daniel\source\repos\OnlineLearningProject\OnlineLearningProject\obj\Release\OnlineLearningProject.Properties.Resources.resources
+c:\users\daniel\source\repos\OnlineLearningProject\OnlineLearningProject\obj\Release\OnlineLearningProject.csproj.GenerateResource.Cache
+c:\users\daniel\source\repos\OnlineLearningProject\OnlineLearningProject\obj\Release\OnlineLearningProject.csproj.CoreCompileInputs.cache
+c:\users\daniel\source\repos\OnlineLearningProject\OnlineLearningProject\obj\Release\OnlineLearningProject.exe
+c:\users\daniel\source\repos\OnlineLearningProject\OnlineLearningProject\obj\Release\OnlineLearningProject.pdb
